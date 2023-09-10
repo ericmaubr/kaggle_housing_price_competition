@@ -1,0 +1,9 @@
+MSSubClass   : Identifica o tipo de habitação objeto da venda.
+MSZoning     : Identifica a classificação geral de zoneamento da venda.
+LotFrontage  : Pés lineares de rua conectados à propriedade
+LotArea      : Tamanho do lote em pés quadrados
+Rua          : Tipo de estrada de acesso à propriedade
+               Gravel: Cascalho  / Paved: Pavimentado
+Viela        : Tipo de viela de acesso à propriedade
+Forma do lote: Forma geral da propriedade
+LandContour  : Planicidade da propriedade
