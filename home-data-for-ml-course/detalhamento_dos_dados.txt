@@ -7,3 +7,16 @@ Rua          : Tipo de estrada de acesso à propriedade
 Viela        : Tipo de viela de acesso à propriedade
 Forma do lote: Forma geral da propriedade
 LandContour  : Planicidade da propriedade
+
+LandSlope: Inclinação da propriedade
+
+
+LotFrontage: Pés lineares de rua conectada à propriedade
+MasVnrArea: Área folheada de alvenaria em pés quadrados
+BsmtQual: Avalia a altura do porão
+BsmtCond: Avalia o estado geral do porão
+BsmtExposure: Refere-se a paredes de paralisação ou no nível do jardim
+BsmtFinType1: Classificação da área acabada do subsolo
+BsmtFinType2: Classificação da área acabada do subsolo (se houver vários tipos)
+Electrical: Electrical system
+GarageType: Garage location
